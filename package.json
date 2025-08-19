@@ -1,0 +1,20 @@
+{
+  "name": "kemiaofxjun-cdn",
+  "version": "1.0.0",
+  "description": "kemiao-static",
+  "homepage": "https://github.com/kemiaofxjun/static#readme",
+  "bugs": {
+    "url": "https://github.com/kemiaofxjun/static/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kemiaofxjun/static.git"
+  },
+  "license": "ISC",
+  "author": "kemiao",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
